@@ -1,6 +1,6 @@
 
 
-### ✅ **1. Adding DHCP for BroadR-Reach**
+### ✅ **1. Adding DHCP for Network interface (Ethernet, Wifi, BroadR-Reach)**
 
 You can extend `dnsmasq.conf` like this:
 
