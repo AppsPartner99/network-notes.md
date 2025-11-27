@@ -2,7 +2,7 @@
 
 ### ✅ **1. Adding DHCP for Network interface (Ethernet, Wifi, BroadR-Reach)**
 
-You can extend `dnsmasq.conf` like this:
+You can extend `dnsmasq.conf` (/etc/dnsmasq.conf) like this:
 
     interface=wlan0
     dhcp-range=interface:wlan0,10.0.0.2,10.0.0.70,24h
